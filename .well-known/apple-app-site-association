@@ -1,21 +1,7 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "YJ8KQ56626.com.parttimestudy.app" ],
-             "paths": [
-                "/",
-                "/test"
-            ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "YJ8KQ56626.com.parttimestudy.app" ]
-   },
-
-
-    "appclips": {
-        "apps": ["YJ8KQ56626.com.parttimestudy.app"]
-    }
+  "webcredentials": {
+    "apps": [
+      "YJ8KQ56626.com.parttimestudy.app"
+    ]
+  }
 }
