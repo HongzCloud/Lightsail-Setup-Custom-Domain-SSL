@@ -7,9 +7,9 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
 
-// app.get("/", (req, res) => {
-//   res.send(`Welcome to my server! This is the homepage on port ${port}`);
-// });
+app.get("/", (req, res) => {
+  res.send(`욱님 점심 맛있게 드세요. ^^ ${port}`);
+});
 
 // app.get("/:name", (req, res) => {
 //   res.send(`Hello ${req.params.name}`);
