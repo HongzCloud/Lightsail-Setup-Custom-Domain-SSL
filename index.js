@@ -8,7 +8,7 @@ app.listen(port, () => {
 });
 
 app.get("/", (req, res) => {
-  res.send(`욱님 점심 맛있게 드세요. ^^ ${port}`);
+  res.send(`주형이형 결혼 축하합니다. ^^ ${port}`);
 });
 
 // app.get("/:name", (req, res) => {
